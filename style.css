@@ -1,0 +1,177 @@
+*{
+  padding: 0;
+  margin: 0;
+  font-family: 'Josefin Sans', sans-serif;
+  box-sizing: border-box;
+  color: #FFFFFF;
+}
+
+.hero {
+  height: 100vh;
+  width: 100%;
+  background-color: #131515;
+}
+
+
+.hero nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-top: 45px;
+  padding-left: 6%;
+  padding-right: 6%
+}
+
+.hero nav ul li {
+  list-style-type: none;
+  display: inline-block;
+  padding: 10px 14px;
+}
+
+.hero nav ul li a {
+  color: #FFFFFF;
+  text-decoration: none;
+  font-weight: bold;
+  text-transform: capitalize;
+}
+
+.hero nav ul li a:hover {
+  color: #F9004D;
+  transition: .3s;
+}
+
+.logo {
+  color: #FFFFFF;
+  font-size: 35px;
+  letter-spacing: 1px;
+}
+
+span {
+  color:#F9004D;
+}
+
+.members h1 {
+  text-decoration: underline;
+  text-align: center;
+  font-size: 30px;
+  margin-top: 150px;
+  margin-bottom: 15px;
+  color: #F9004D;
+}
+
+.members h3 {
+  color: #FFFFFF;
+  font-size: 22px;
+  text-transform: capitalize;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.team_profile {
+  width: 100%;
+  padding: 100px 0px;
+  background-color: #191919;
+}
+
+.team_profile h1 {
+  color: #FFFFFF;
+  font-size: 50px;
+  text-transform: capitalize;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.team_profile h2 {
+  text-align: center;
+  font-size: 30px;
+}
+
+.t_name {
+  margin-bottom: 50px;
+}
+
+
+.personal_info {
+  padding: 50px 200px 0px 200px;
+}
+
+.personal_info h2 {
+  padding-bottom: 60px;
+}
+
+.personal_info h3 {
+  color: #FCFC;
+  padding-bottom: 5px;
+  font-size: 22px;
+}
+
+.personal_info p {
+  color: #FFFFFF;
+  padding-bottom: 50px;
+}
+
+.personality {
+  padding: 50px 200px 0px 200px;
+}
+
+.personality h2 {
+  padding-bottom: 50px;
+}
+
+.personality h3 {
+  font-size: 22px;
+  color: #FCFC;
+}
+
+.row img {
+  height: auto;
+  width: 300px;
+}
+
+.row {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.column {
+  float: left;
+  width: 30%;
+  padding: 50px;
+}
+
+.test_help {
+  align-items: center;
+  display: flex;
+  justify-content: space-around;
+}
+
+.test_help p {
+  color: #FCFC;
+  letter-spacing: 1px;
+  line-height: 28px;
+  font-size: 16px;
+  margin-bottom: 45px;
+  width: 700px;
+  text-align: center;
+}
+
+.personality h5 {
+  font-size: 22px;
+  text-align: center;
+  padding-bottom: 10px;
+}
+
+.ideal_jobs {
+  width: 100%;
+  padding: 100px 0px;
+  background-color: #131515;
+}
+
+.ideal_jobs h1 {
+  color: #FFFFFF;
+  font-size: 50px;
+  text-transform: capitalize;
+  margin-bottom: 20px;
+  text-align: center;
+}
