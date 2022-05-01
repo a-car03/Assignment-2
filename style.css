@@ -292,6 +292,25 @@ span {
   background-color: #191919;
 }
 
+.work_content {
+  width: 1130px;
+  max-width: 95%;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.work_text p {
+  color: #FFFFFF;
+  letter-spacing: 1px;
+  line-height: 28px;
+  font-size: 18px;
+  text-align: center;
+  padding-left: 18%;
+  padding-right: 18%;
+}
+
 .it_work h1 {
   color: white;
   font-size: 50px;
@@ -300,9 +319,10 @@ span {
   text-align: center;
 }
 
-
-
-
+.work_text a:hover {
+  color: #F9004D;
+  transition: .4s;
+}
 
 .it_tech {
   width: 100%;
