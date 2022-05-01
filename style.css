@@ -176,6 +176,18 @@ span {
   text-align: center;
 }
 
+.job_content img {
+  height: auto;
+  width: 430px;
+}
+
+.job_frame {
+  text-align: center;
+}
+
+
+
+
 .tools {
   width: 100%;
   padding: 100px 0px;
@@ -341,6 +353,10 @@ span {
 
 .tech_text h3 {
   color: #FCFC;
+}
+
+.tech_text {
+  text-align: center;
 }
 
 .tech_text p {
