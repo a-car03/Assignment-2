@@ -225,3 +225,157 @@ span {
   text-decoration: none;
   font-weight: bold;
 }
+
+.industry_data {
+  width: 100%;
+  padding: 100px 0px;
+  background-color: #131515;
+}
+
+.data_content {
+  width: 1130px;
+  max-width: 95%;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.industry_data h1 {
+  color: white;
+  font-size: 50px;
+  text-transform: capitalize;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.data_text p {
+  color: #FFFFFF;
+  letter-spacing: 1px;
+  line-height: 28px;
+  font-size: 18px;
+  margin-top: 45px;
+  width: 700px;
+  text-align: center;
+}
+
+.data_text ul li {
+  color: #FFFFFF;
+  letter-spacing: 1px;
+  font-size: 18px;
+  width: 700px;
+}
+
+.data_text ul, ol {
+  text-align: center;
+  list-style-position: inside;
+}
+
+.data_text ol li {
+  color: #FFFFFF;
+  letter-spacing: 1px;
+  font-size: 18px;
+  width: 700px;
+}
+
+.data_1 {
+  padding-top: 30px;
+}
+
+.data_1 ul li {
+  padding-bottom: 15px;
+}
+
+.it_work {
+  width: 100%;
+  padding: 100px 0px;
+  background-color: #191919;
+}
+
+.it_work h1 {
+  color: white;
+  font-size: 50px;
+  text-transform: capitalize;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+
+
+
+
+.it_tech {
+  width: 100%;
+  padding: 100px 0px;
+  background-color: #131515;
+}
+
+.tech_content {
+  width: 1130px;
+  max-width: 95%;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.tech_text h3 {
+  color: #FCFC;
+}
+
+.tech_text p {
+  color: #FFFFFF;
+  letter-spacing: 1px;
+  line-height: 28px;
+  font-size: 18px;
+  margin-bottom: 45px;
+  width: 800px;
+}
+
+.it_tech h1 {
+  color: white;
+  font-size: 50px;
+  text-transform: capitalize;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.tech_text h2{
+  text-align: center;
+  font-size: 30px;
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+
+.project_idea {
+  width: 100%;
+  padding: 100px 0px;
+  background-color: #191919;
+}
+
+.project_idea h1 {
+  color: white;
+  font-size: 50px;
+  text-transform: capitalize;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.project_content {
+  width: 1130px;
+  max-width: 95%;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.project_text p {
+  color: #FFFFFF;
+  letter-spacing: 1px;
+  line-height: 28px;
+  font-size: 18px;
+  margin-bottom: 45px;
+  width: 800px;
+  text-align: center;
+}
