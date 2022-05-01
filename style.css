@@ -112,6 +112,7 @@ span {
 
 .personality {
   padding: 50px 14% 0px 14%;
+  text-align: center;
 }
 
 .personality h2 {
@@ -192,6 +193,13 @@ span {
   width: 100%;
   padding: 100px 0px;
   background-color: #191919;
+}
+
+.tools p {
+  color: #FCFC;
+  font-size: 18px;
+  text-align: center;
+  padding: 0px 22% 0px 22%;
 }
 
 .tools h1 {
@@ -445,7 +453,7 @@ span {
 }
 
 .reflect_text {
-  padding: 50px 200px 0px 200px;
+  padding: 50px 220px 0px 220px;
 }
 
 .reflect_text p {
